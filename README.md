@@ -25,9 +25,15 @@ Follow these simple steps to install and play the game on your Windows PC:
 
 ---
 
+
 ## 💻 System Requirements
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Memory:** Runs smoothly on **4GB RAM** or higher
 * **Graphics:** Supports WebGL/DirectX running on integrated graphics
+
+---
+
+## 💾 File Size
+* **500** Megabytes
 
 ---
